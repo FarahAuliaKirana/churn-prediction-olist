@@ -101,9 +101,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost jupyter
 - [x] Churn definition (90-day window)
 - [x] RFM analysis
 - [x] EDA — distributions, trends, correlations, category analysis
-- [ ] Feature engineering
-- [ ] Modeling
+- [x] Feature engineering
+- [x] Modeling
 - [ ] Final report
 
-**Status:** 🔄 In Progress — Week 1 Complete ✅ | Week 2 Starting
+**Status:** 🔄 In Progress 
 
